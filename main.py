@@ -11,9 +11,9 @@ from aiohttp import web
 # TELEGRAM
 # ==============================
 
-API_ID_ENV = "35771930"
-API_HASH_ENV = "8ea37e234895cfcd0041464824769797"
-STRING_SESSION_ENV = "1BJWap1wBu0afTti9sL6Mgw830Fq1NKPATFnr3JzkjHBPz3mj0jmJVBDN0fhrVCTM9cvTMy2teQarEmDIGh7coCO3QQTYHJ1OXsPWRl8yYoJ-BooiA6tUBQ757kWftDVETnd_FptmcLr0Sa0MQdAY-i_VyhLYArVq5q4w6-l-dlkUYdUg6BtSPbanS1pB6lzyxcn1tlJhymDRWsY7zAW9pyE3a3sHNU0k_LS2bkgcZEETIPwiTjaQFPOB1BT3z08EwwPoECUCvplBENxdYIQlTjkaBwlhCMDzfrmuRk9hKKCx6sEhpyzeuDRI7NSZvbBeJ7wla3khuAoHgvJq8BFoUbHCvh9peCU="
+API_ID_ENV = ""
+API_HASH_ENV = ""
+STRING_SESSION_ENV = ""
 
 # For local use, fill these three values. Keep this file private after adding
 # a StringSession. Replit environment secrets take precedence when present.
